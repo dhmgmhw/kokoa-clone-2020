@@ -60,6 +60,7 @@ color:rgba(0,0,0,0.4);
     color: inherit;
     font-size: 13px;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 #login-form input[type="submit"]:hover {
