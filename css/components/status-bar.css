@@ -6,7 +6,11 @@
     top: 0px;
     width: 100%;
     box-sizing: border-box;
-    }
+    z-index: 1;
+    
+}
+
+
 .status-bar__column {
     width: 33%;
 }

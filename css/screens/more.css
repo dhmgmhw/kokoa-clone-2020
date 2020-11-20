@@ -30,7 +30,10 @@
 
 .more-suggestions__icons {
     display: flex;
-
 }
 
 
+.more-screen .user-component__column i {
+    color: black;
+    opacity: 0.9;
+}
